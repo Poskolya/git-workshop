@@ -1,1 +1,2 @@
-there is something here, maybe it's important?
+s = input()
+print("Your input doesn't matter!")
